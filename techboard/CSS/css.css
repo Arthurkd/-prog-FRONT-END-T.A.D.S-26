@@ -1,0 +1,41 @@
+body {
+    background-color: #FFFFFF;
+    font-family: Poppins, sans-serif;
+
+}
+
+h1 span{
+    color: #9747FF;
+    font-size: 64px;
+    text-align: center;
+    font-style: bold;
+}
+h1 {
+    color: #232323;
+    font-size: 64px;
+    text-align: center;
+    font-style: bold;
+}
+p {
+    color: #232323;
+    font-size: 24px;
+    text-align: center;
+}
+.botao {
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #9747FF;
+    color: #FFFFFF;
+    font-size: 24px;
+    border-radius: 100px;
+    padding: 10px 15px;
+    text-decoration: none;
+
+
+}
+.botao:hover {
+    background-color: #8233E8;
+}
+
