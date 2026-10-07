@@ -39,3 +39,22 @@ p {
     background-color: #8233E8;
 }
 
+.container {
+    text-align: center;
+}
+
+body {
+    background-color: #FFFFFF;
+    color: #9747FF;
+}
+
+body.dark-mode,
+body.dark-mode h1,
+body.dark-mode p {
+    background-color: #0e1014;
+    color: #FFFFFF;
+}
+
+.bt {
+    text-align: right;
+}
