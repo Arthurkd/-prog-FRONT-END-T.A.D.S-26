@@ -56,5 +56,13 @@ body.dark-mode p {
 }
 
 .bt {
-    text-align: right;
+    border-radius: 50%;
+    border: none;
+    background-color: #0e1014;
+
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
 }
