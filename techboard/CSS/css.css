@@ -1,20 +1,28 @@
 body {
-    background-color: #FFFFFF;
     font-family: Poppins, sans-serif;
+    background-color: #FFFFFF;
+    color: #9747FF;
 
+}
+
+body.dark-mode,
+body.dark-mode h1,
+body.dark-mode p {
+    background-color: #0e1014;
+    color: #FFFFFF;
 }
 
 h1 span{
     color: #9747FF;
     font-size: 64px;
     text-align: center;
-    font-style: bold;
+    font-weight: 800;
 }
 h1 {
     color: #232323;
     font-size: 64px;
     text-align: center;
-    font-style: bold;
+    font-weight: 800;
 }
 p {
     color: #232323;
@@ -41,18 +49,6 @@ p {
 
 .container {
     text-align: center;
-}
-
-body {
-    background-color: #FFFFFF;
-    color: #9747FF;
-}
-
-body.dark-mode,
-body.dark-mode h1,
-body.dark-mode p {
-    background-color: #0e1014;
-    color: #FFFFFF;
 }
 
 .bt {
